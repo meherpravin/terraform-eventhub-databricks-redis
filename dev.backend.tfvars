@@ -1,0 +1,6 @@
+container_name        = "state"
+storage_account_name  = ""
+key                   = "test.tfstate"
+resource_group_name   = "test"
+subscription_id       = ""
+tenant_id             = ""
